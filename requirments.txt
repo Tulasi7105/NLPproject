@@ -1,0 +1,6 @@
+requirments
+1 pymupdf
+2 sentence-transformers
+3 numpy
+4 streamlit
+5 requests
